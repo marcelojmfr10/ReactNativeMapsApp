@@ -1,6 +1,6 @@
 import ThemedPressable from "@/presentation/components/shared/themed-pressable";
 import { ThemedText } from "@/presentation/components/shared/themed-text";
-import { usePermissionsStore } from "@/presentation/store/usePermissions";
+import { usePermissionsStore } from "@/presentation/store/usePermissionsStore";
 import React from "react";
 import { View } from "react-native";
 
